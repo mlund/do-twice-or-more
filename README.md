@@ -6,7 +6,7 @@
 - [Revenge, 2017](https://www.rottentomatoes.com/m/revenge_2018)
 - [Marshland / La isla mínima, 2014](https://en.wikipedia.org/wiki/Marshland_(film))
 - [Seven Psychopaths, 2012](https://www.themoviedb.org/movie/86838-seven-psychopaths)
-- [Kick-Ass, 2010](https://en.wikipedia.org/wiki/Kick-Ass_(film))
+- [Kick-Ass, 2010](https://www.themoviedb.org/movie/23483-kick-ass)
 - [District Nine, 2009](https://en.wikipedia.org/wiki/District_9)
 - [Shoot'em up, 2007](https://www.themoviedb.org/movie/4141-shoot-em-up) (_Paul Giamatti is **the** villain_)
 - [Hot Fuzz, 2007](https://en.wikipedia.org/wiki/Hot_Fuzz)
